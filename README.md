@@ -8,7 +8,7 @@
 ![Alt text](https://github.com/ashbretado/2DUFO-Ashley/blob/master/Capture.JPG "Start Screen")
 <br><br>
 
-![Alt text](https://github.com/ashbretado/2DUFO-Ashley/blob/master/Capture2.JPG "Start Screen")
+![Alt text](https://github.com/ashbretado/2DUFO-Ashley/blob/master/Capture2.JPG "You Win!")
 <br><br>
 
 
